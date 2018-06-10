@@ -1,0 +1,9 @@
+{
+  "name": "richtext",
+  "apiDependencies": [
+  {
+    "name": "richtext"
+  }
+]
+}
+
