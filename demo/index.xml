@@ -14,6 +14,6 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-    <richtext><![CDATA[<h2 style="text-align:center;">  <span style="background-color:#60D978;">&amp;HTML </span>片段</h2><p style="text-align:center;">  利用<strong>html编辑器</strong>来 编辑<em>富文本</em></p>]]></richtext>
+    <richtext><![CDATA[<h2 style="text-align:center;"> 这是一段<span style="background-color:#60D978;color:#fff;">HTML</span>片段</h2><p style="text-align:center;">  利用<strong>html编辑器</strong>来 编辑<em>富文本</em></p>]]></richtext>
     </data>
 </root>
